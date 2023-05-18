@@ -1,0 +1,7 @@
+D:\Prac1Git\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\Prac1Git\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\Prac1Git\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\Prac1Git\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\Prac1Git\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Prac1Git\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\Prac1Git\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
