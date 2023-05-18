@@ -17,6 +17,7 @@ namespace ConsoleApp3
             {
                 Console.WriteLine($"А в {i} степени = {Pow(A,i)}");
             }
+            Console.ReadKey();
         }
     }
 }

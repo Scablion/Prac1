@@ -15,6 +15,7 @@ namespace ConsoleApp2
             int x = int.Parse(Console.ReadLine());
             double y = 3 * Pow(x, 6) - 6 * Pow(x, 2) - 7;
             Console.WriteLine($"y = {y}");
+            Console.ReadKey();
         }
     }
 }

@@ -30,7 +30,7 @@ namespace ConsoleApp1
             double c = Gipotenuza(a, b);
             double p = Pirimetr(a, b, c);
             Console.WriteLine($"Пириметр = {p:f3} \nГипотенуза = {c:f3}");
-            
+            Console.ReadKey();
         }
     }
 }

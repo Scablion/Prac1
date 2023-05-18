@@ -17,6 +17,7 @@ namespace ConsoleApp4
             double b = Exp(-a * x);
             double y = 1 - Exp(-a * x) * Sin(a * x + b);
             Console.WriteLine($"y = {y:f3}");
+            Console.ReadKey();
         }
     }
 }

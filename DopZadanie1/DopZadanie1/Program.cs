@@ -27,6 +27,7 @@ namespace DopZadanie1
             double x = (C1 * B2 - C2 * B1) / D;
             double y = (A1 * C2 - A2 * C1) / D;
             Console.WriteLine($"x = {x}\ny = {y}\nD = {D}");
+            Console.ReadKey();
         }
     }
 }
