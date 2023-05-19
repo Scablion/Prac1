@@ -1,7 +1,0 @@
-D:\Prac1Git\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
-D:\Prac1Git\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
-D:\Prac1Git\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
-D:\Prac1Git\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
-D:\Prac1Git\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
-D:\Prac1Git\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
-D:\Prac1Git\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
