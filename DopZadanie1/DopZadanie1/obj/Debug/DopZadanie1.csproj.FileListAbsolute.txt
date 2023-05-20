@@ -1,0 +1,7 @@
+D:\Prac1Git\DopZadanie1\DopZadanie1\bin\Debug\DopZadanie1.exe.config
+D:\Prac1Git\DopZadanie1\DopZadanie1\bin\Debug\DopZadanie1.exe
+D:\Prac1Git\DopZadanie1\DopZadanie1\bin\Debug\DopZadanie1.pdb
+D:\Prac1Git\DopZadanie1\DopZadanie1\obj\Debug\DopZadanie1.csproj.AssemblyReference.cache
+D:\Prac1Git\DopZadanie1\DopZadanie1\obj\Debug\DopZadanie1.csproj.CoreCompileInputs.cache
+D:\Prac1Git\DopZadanie1\DopZadanie1\obj\Debug\DopZadanie1.exe
+D:\Prac1Git\DopZadanie1\DopZadanie1\obj\Debug\DopZadanie1.pdb
